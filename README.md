@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-👨‍💻 - Web developer Full Stack•
-🇪🇺🇪🇦🇬🇧🇵🇹/Back home again 🇧🇷
-🧠📖 Always learning something new
+👨‍💻 - Web developer Full Stack• <br/>
+🇪🇺🇪🇦🇬🇧🇵🇹/Back home again 🇧🇷 <br/>
+🧠📖 Always learning something new <br/>
