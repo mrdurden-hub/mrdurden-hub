@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mateus Carvalho</h1>
 <h3 align="center">A full stack programmer from Brazil</h3>
 
-- 🔭 I’m currently working on **working on my personal blog**
+- 🔭 I’m currently working on **my youtube channel**
 
 - 🌱 I’m currently learning **Reactjs, Nextjs e Typescript**
+
+## &#x270d; Blog & Writing
+Currently writing articles weekly on my personal blog: http://mateuscarvalho.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-souza-carvalho-365b60153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-souza-carvalho-365b60153/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mateus.souza.10485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mateus.souza.10485" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/i_gottaplan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_gottaplan/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucprbck8vker-096c7xpqrkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucprbck8vker-096c7xpqrkq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
