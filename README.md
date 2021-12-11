@@ -3,11 +3,6 @@
 
 - 🔭 I’m currently working on **my youtube channel**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs e Typescript**
-
-## &#x270d; Blog & Writing
-Currently writing articles weekly on my personal blog: http://mateuscarvalho.netlify.app
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-souza-carvalho-365b60153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-souza-carvalho-365b60153/" height="30" width="40" /></a>
